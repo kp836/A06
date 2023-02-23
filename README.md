@@ -1,7 +1,6 @@
 # A06.
 
-remote_theme: midnight
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
